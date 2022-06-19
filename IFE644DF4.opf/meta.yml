@@ -1,0 +1,74 @@
+id: IFE644DF4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T18:02:16.579951'
+last_modified: '2022-06-19T18:02:16.579956'
+parser: null
+source_metadata:
+  title: Vajrasattva Series
+  language: zh
+  description: 'A series of texts related to the deity Vajrasattva (rdo rje sems dpa''):'
+  volume:
+    fEBA1:
+      title: Heart of Vajrasattva—The Heart of Confession, the King of Purification
+        Practices, from 'The Immaculate Secret Vajrasattva'
+      base_file: fEBA1.txt
+      order: 1
+      parent: Confession
+    f95A0:
+      title: 'Cultivating the Pure Realm of Manifest Joy: A Guru Yoga of Vajrasattva'
+      base_file: f95A0.txt
+      order: 2
+      parent: Guru Yoga
+    f2BAD:
+      title: 'A Shower of Great Bliss: A Lineage Prayer for the Guru Yoga based on
+        Vajrasattva'
+      base_file: f2BAD.txt
+      order: 3
+      parent: Lineage Prayers
+    fB348:
+      title: A Method of Purifying Samaya Violations by Relying on the Glorious Guru
+        Vajrasattva
+      base_file: fB348.txt
+      order: 4
+      parent: Practices
+    fCAD1:
+      title: A Song of Innermost Praise to Vajrasattva
+      base_file: fCAD1.txt
+      order: 5
+      parent: Praise
+    f0BD7:
+      title: 'Wish-Granting Provision of Twofold Accomplishment: A Praise of Vajrasattva'
+      base_file: f0BD7.txt
+      order: 6
+      parent: Praise
+    fE7DA:
+      title: In Praise of Glorious Vajrasattva
+      base_file: fE7DA.txt
+      order: 7
+      parent: Praise
+    f1482:
+      title: Concise Daily Practice of Vajrasattva
+      base_file: f1482.txt
+      order: 8
+      parent: Sādhanas
+    fF005:
+      title: Brief Vajrasattva Visualisation and Mantra Recitation
+      base_file: fF005.txt
+      order: 9
+      parent: Sādhanas
+    f4B1F:
+      title: 'The Cintāmaṇi (Wish-Fulfilling Jewel) Instruction: A Sādhana of the
+        Glorious Vajrasattva, a Method of Purification and Accomplishment for Both
+        Self and Others'
+      base_file: f4B1F.txt
+      order: 10
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
